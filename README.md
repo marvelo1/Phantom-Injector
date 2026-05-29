@@ -222,7 +222,6 @@ The Gadget dylib isn't loading. This means:
 ```
 ios/
 ├── phantom_injector.py   # Main injection tool
-├── ssl_bypass.js         # Frida SSL pinning bypass script
 ├── README.md             # This file
 └── *.ipa                 # Your target IPA files
 ```
