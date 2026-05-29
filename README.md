@@ -1,4 +1,4 @@
-<![CDATA[# 👻 Phantom Injector
+# 👻 Phantom Injector
 
 **Frida Gadget injection for iOS 17/18 — run Frida on non-jailbroken devices.**
 
@@ -237,4 +237,3 @@ Unauthorized use against applications you do not own or have permission to test 
 ---
 
 **Made with 👻 by marvelo**
-]]>
