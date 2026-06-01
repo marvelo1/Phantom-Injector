@@ -32,7 +32,7 @@ Phantom Injector automates the process of embedding [Frida Gadget](https://frida
 ### Quick Install
 
 ```bash
-pip install lief frida frida-tools pymobiledevice3 objection
+pip install lief frida==17.9.11 frida-tools pymobiledevice3 objection
 ```
 
 ---
